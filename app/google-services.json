@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1059363861223",
+    "firebase_url": "https://firedemo-564a7.firebaseio.com",
+    "project_id": "firedemo-564a7",
+    "storage_bucket": "firedemo-564a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059363861223:android:a5f79b6cc4461c1b",
+        "android_client_info": {
+          "package_name": "com.example.kenny.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059363861223-64md35tpbrqak39oc3tgbml69rd53d2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXmhGo5q2f-gUn1KG6Km_gaEAII6_hUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059363861223:android:ffc4409743836aff",
+        "android_client_info": {
+          "package_name": "com.example.kenny.moviechatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059363861223-s85p99739d6uao3du7j8imur4omna18d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenny.moviechatbot",
+            "certificate_hash": "cd2f6a575c482c48bb860d51e69ca0b39ac165b0"
+          }
+        },
+        {
+          "client_id": "1059363861223-64md35tpbrqak39oc3tgbml69rd53d2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXmhGo5q2f-gUn1KG6Km_gaEAII6_hUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059363861223-64md35tpbrqak39oc3tgbml69rd53d2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059363861223:android:abbbae8159b2cfa2",
+        "android_client_info": {
+          "package_name": "com.example.kenny.oscarchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059363861223-859v59d5aclc3r67cvscr64lepl7lmra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenny.oscarchatbot",
+            "certificate_hash": "cd2f6a575c482c48bb860d51e69ca0b39ac165b0"
+          }
+        },
+        {
+          "client_id": "1059363861223-64md35tpbrqak39oc3tgbml69rd53d2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXmhGo5q2f-gUn1KG6Km_gaEAII6_hUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059363861223-64md35tpbrqak39oc3tgbml69rd53d2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
